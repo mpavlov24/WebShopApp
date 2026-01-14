@@ -26,3 +26,78 @@ C:\Users\Student\Desktop\papka nova\WebShopApp\WebShopApp.Infrastructure\obj\Deb
 C:\Users\Student\Desktop\papka nova\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
 C:\Users\Student\Desktop\papka nova\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
 C:\Users\Student\Desktop\papka nova\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.sourcelink.json
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Documents\nikol.mrsl\Project\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.sourcelink.json
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\carpe\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.sourcelink.json
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Downloads\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.sourcelink.json
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\carpe\Desktop\WebShopApp4 (1)\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.sourcelink.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
