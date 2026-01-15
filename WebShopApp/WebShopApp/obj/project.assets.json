@@ -8240,11 +8240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\m pavlov\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
       "projectName": "WebShopApp",
-      "projectPath": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+      "projectPath": "C:\\Users\\Student\\Documents\\m pavlov\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp\\WebShopApp\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\m pavlov\\WebShopApp\\WebShopApp\\WebShopApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8265,11 +8265,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj": {
-              "projectPath": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj"
+            "C:\\Users\\Student\\Documents\\m pavlov\\WebShopApp\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj": {
+              "projectPath": "C:\\Users\\Student\\Documents\\m pavlov\\WebShopApp\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj"
             },
-            "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj"
+            "C:\\Users\\Student\\Documents\\m pavlov\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Student\\Documents\\m pavlov\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj"
             }
           }
         }

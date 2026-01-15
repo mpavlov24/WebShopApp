@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V5LGy8ZnggA=",
+  "dgSpecHash": "Duvt+heW1l0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Documents\\m pavlov\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
